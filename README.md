@@ -8,7 +8,6 @@ This project presents a comprehensive dashboard for BlinkIt, a Zomato company, u
 - **Key Performance Indicators (KPIs):** In-depth analysis of essential KPIs for tracking business performance.
 - **Sales Trends Analysis:** Evaluation of monthly and yearly sales trends to identify growth opportunities.
 - **Customer Insights:** Detailed analysis of customer demographics and purchasing behavior.
-- **Forecasting:** Predictive analytics for future sales, aiding inventory and resource planning.
 - **User-Friendly Interface:** Intuitive design for easy navigation and data exploration.
 
 ## Technologies Used
